@@ -1,5 +1,5 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
+### DATE: 24.03.2025
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +26,34 @@ for this purpose.
 
 
 ### Output:
+```
+Name:Onteddu Sirisha
+Reg.No:212222230103
+```
+
+
+
+
+![image](https://github.com/user-attachments/assets/5463b34f-d435-480d-a24b-7fbc2d6fbf93)
+
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/b9d5a1e3-2616-4bb4-94eb-b7003a5827bf)
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/2b9c09d0-d32e-478d-bf84-c995264d7af8)
+
+
 
 ### Result:
